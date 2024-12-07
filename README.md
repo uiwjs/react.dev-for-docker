@@ -11,7 +11,6 @@ React documentation for [Docker](https://hub.docker.com/r/wcjiang/react.dev)
 
 The new [React documentation](https://github.com/reactjs/react.dev) supports Docker deployment, making it convenient for local viewing and learning.
 
-
 ```bash
 docker pull wcjiang/react.dev:latest
 ```
