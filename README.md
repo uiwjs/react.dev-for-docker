@@ -16,7 +16,7 @@ docker pull wcjiang/react.dev:latest
 ```
 
 ```bash
-docker run --name zh-hans.react.dev \
+docker run --name react.dev \
   -p 60009:3000 \
   --restart=always \
   -d wcjiang/react.dev:latest
